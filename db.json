@@ -1,0 +1,37 @@
+{
+  "Wisata" :[
+
+    {
+      "id":1,
+      "Nama": "RSUD Majalengka ",
+      "Lat" : -6.833750768927492, 
+      "Lng" : 108.23349724087834,
+      "Waktu Buka": 6.00 ,
+      "Waktu Tutup": 20.00
+    },
+    {
+      "id":2,
+      "Nama": "Pizza Hits Majalengka ",
+      "Lat" : -6.837117742309791,
+      "Lng" : 108.23474243750054,
+      "Waktu Buka": 8.00 ,
+      "Waktu Tutup": 15.00
+    },
+    {
+      "id":3,
+      "Nama": "Alun - Alun Majalengka ",
+      "Lat" : -6.835167279563472,
+      "Lng" : 108.22778017155827,
+      "Waktu Buka": 6.00 ,
+      "Waktu Tutup": 21.00
+    },
+    {
+      "id":4,
+      "Nama": "Universitas Majalengka ",
+      "Lat" : -6.832918158218849, 
+      "Lng" : 108.2148901562182,
+      "Waktu Buka": 7.00 ,
+      "Waktu Tutup": 18.00
+    }
+  ]
+}
